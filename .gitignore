@@ -1,0 +1,9 @@
+# VSCode files
+.vscode
+
+# .NET build results
+[Bb]in/
+[Oo]bj/
+[Ee]xt/
+[Ll]og/
+[Ll]ogs/
