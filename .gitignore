@@ -7,3 +7,7 @@
 [Ee]xt/
 [Ll]og/
 [Ll]ogs/
+
+# Data files
+data/
+*.csv
