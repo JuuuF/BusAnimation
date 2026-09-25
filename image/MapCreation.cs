@@ -6,8 +6,8 @@ namespace BusAnimation.Image;
 
 public class MapCreation(double lat = 54.43233, double lon = 10.1394)
 {
-    private double lat { get; } = lat;
-    private double lon { get; } = lon;
+    private double lat { get; set; } = lat;
+    private double lon { get; set; } = lon;
 
     public async Task<Map> GetMapAsync()
     {
