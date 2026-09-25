@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Mapsui" Version="5.1.0" />
+    <PackageReference Include="Mapsui.Rendering.Skia" Version="5.1.0" />
+    <PackageReference Include="Mapsui.Tiling" Version="5.1.0" />
+  </ItemGroup>
+
 </Project>
